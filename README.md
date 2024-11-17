@@ -74,3 +74,7 @@ Muse AR is an innovative mobile application developed for the KU Hackfest organi
 ## Presentation
 
 To learn more about Muse AR, view our detailed presentation [here](https://github.com/bibhushansaakha/museAR/blob/main/assets/MuseAR.pdf).
+
+## YouTube
+
+Checkout our YouTube video [here](https://www.youtube.com/watch?v=DFRhqaavsuU).

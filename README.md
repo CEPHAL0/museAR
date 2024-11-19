@@ -80,4 +80,4 @@ To learn more about Muse AR, view our detailed presentation [here](https://githu
 Checkout our YouTube video [here](https://www.youtube.com/watch?v=DFRhqaavsuU).
 
 
-- Built at KU Hackfest 2023
+- Built at KU Hackfest 2024
